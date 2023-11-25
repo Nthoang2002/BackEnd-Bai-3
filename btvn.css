@@ -1,0 +1,126 @@
+body{
+
+}
+
+.section-1{
+    width: 280px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+.section-1 .inner-header{
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.section-1 .inner-header .inner-logo{
+    display: inline-block;
+    background-color: #FE5DA3;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 32px;
+    color: #fff;
+    font-weight: 700;
+    font-size: 14px;
+}
+.section-1 .inner-header .inner-text{
+    display: inline-block;
+    margin-left: 5px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.section-1 .inner-body{
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+.section-1 .inner-body .inner-incoming{
+    background: #f1f1f1;
+    width: 200px;
+    padding: 5px 10px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    font-size: 13px;
+}
+
+.section-1 .inner-body .inner-outgoing{
+    background: #fe5da3;
+    width: 200px;
+    padding: 5px 10px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    font-size: 13px;
+    margin-left: auto;
+    color: #fff;
+}
+
+.section-1 .inner-footer{
+    padding: 10px;
+}
+.section-1 .inner-footer input{
+    width: 190px;
+    height: 25px;
+    border-radius: 20px;
+    padding: 0 10px;
+    border: 1px solid #ddd;
+    outline: none;
+}
+.section-1 .inner-footer button{
+    height: 25px;
+    background: #fe5da3;
+    border: 1px solid #ddd;
+    padding: 0 10px;
+    border-radius: 15px;
+    color: #fff;
+    cursor: pointer;
+
+}
+
+
+/* section-2 */
+.section-2 {
+    display: block;
+}
+
+.section-2 .box{
+    text-align: center;
+    display: inline-block;
+    padding: 10px;
+    width: 200px;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.section-2 .box img{
+    width: 100px;
+    height: 100px;
+}
+.section-2 .box p{
+    font-weight: 600;
+    font-size: 13px;
+}
+/* End section-2 */
+
+
+
+/* section-3 */
+.section-3{
+    display: block;
+}
+.section-3 .box{
+    display: inline-block;
+    width: 250px;
+    padding: 5px;
+    border: 1px solid #ddd ;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+.section-3 .box img{
+width: 250px;
+height: 250px;
+}
+/* End section-3 */
